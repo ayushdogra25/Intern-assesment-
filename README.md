@@ -36,21 +36,4 @@ These tests confirm that the logic behaves correctly in all situations.
 
 ---
 
-## How to Run
 
-1. Compile the code:
-   g++ guard.cpp -o guard
-
-2. Run the program:
-   ./guard
-
----
-
-## Tech Used
-- C++
-- Basic conditional logic
-
----
-
-## Author
-Ayush Dogra
